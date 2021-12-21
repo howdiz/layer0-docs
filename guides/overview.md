@@ -24,7 +24,7 @@ Check out our video [{{ PRODUCT_NAME }} - What & Why](https://www.youtube.com/wa
 
 ### JS Workers
 
-{{ PRODUCT_NAME }} provides server side rendering (SSR) via JS workers in multiple regions.
+{{ PRODUCT_NAME }} provides JS workers in multiple regions which can use used for server side rendering (SSR) and many other use cases. See [Serverless Functions](serverless_functions) for more infomration 
 
 ## Speed
 
